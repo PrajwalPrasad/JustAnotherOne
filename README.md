@@ -1,2 +1,2 @@
 # JustAnotherOne
-Just another repository
+Just another repository to learn about GitHub
